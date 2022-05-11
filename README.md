@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
 
 <!--
 **MahanRahmati/MahanRahmati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Arna.
+- 🌱 I’m currently learning Flutter Application Development.
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: mahan.rahmati@protonmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahanRahmati&theme=dark&show_icons=true)](https://github.com/MahanRahmati/)
