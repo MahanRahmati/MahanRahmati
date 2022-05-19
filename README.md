@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: mahan.rahmati@protonmail.com
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark?quoteCategory=fun)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahanRahmati&theme=dark&show_icons=true)](https://github.com/MahanRahmati/)
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,dart,flutter,git,github,linux,lua,md,materialui,py,pytorch,vim,vscode&perline=5)](https://skillicons.dev)
