@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mahan.rahmati@protonmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahanRahmati&theme=dark&show_icons=true)](https://github.com/MahanRahmati/)
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,dart,flutter,git,github,linux,lua,md,materialui,py,pytorch,vim,vscode&perline=5)](https://skillicons.dev)
