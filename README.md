@@ -12,3 +12,5 @@
 #### My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,dart,flutter,git,github,linux,lua,md,materialui,py,pytorch,vim,vscode&perline=5)](https://skillicons.dev)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahanRahmati&theme=dark&show_icons=true)](https://github.com/MahanRahmati/)
