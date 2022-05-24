@@ -3,7 +3,11 @@
 - 🔭 I’m currently working on Arna.
 - 🌱 I’m currently learning Flutter Application Development.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: mahan.rahmati@protonmail.com
+- 📫 How to reach me:
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MahanRahmati1)
+
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:mahan.rahmati@protonmail.com)
 
 #### Medium
 
