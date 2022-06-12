@@ -1,11 +1,10 @@
 ![Header](./header.png)
 
-- 🔭 I’m currently working on Arna.
-- 🌱 I’m currently learning Flutter Application Development.
-- 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me:
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MahanRahmati1) [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:mahan.rahmati@protonmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mahan1Rahmati)
+<p align="center">
+    <a href="https://twitter.com/MahanRahmati1"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+    <a href="mailto:mahan.rahmati@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+    <a href="[mailto:mahan.rahmati@protonmail.com](https://t.me/Mahan1Rahmati)"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</p>
 
 #### Medium
 
