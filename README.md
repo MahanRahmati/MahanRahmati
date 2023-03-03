@@ -1,10 +1,3 @@
-![Header](./header.png)
-
-<p align="center">
-    <a href="mailto:mahan.rahmati@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-    <a href="[mailto:mahan.rahmati@protonmail.com](https://t.me/Mahan1Rahmati)"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-</p>
-
 #### Medium
 
 [![Medium](https://github-readme-medium.vercel.app/?username=mahan.rahmati)](https://medium.com/@mahan.rahmati)
